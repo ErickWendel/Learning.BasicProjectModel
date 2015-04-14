@@ -1,0 +1,5 @@
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Model\bin\Debug\Cabelereiro.Model.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Model\bin\Debug\Cabelereiro.Model.pdb
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Model\obj\Debug\Cabelereiro.Model.csprojResolveAssemblyReference.cache
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Model\obj\Debug\Cabelereiro.Model.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Model\obj\Debug\Cabelereiro.Model.pdb

@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cabelereiro.Web", "Cabelereiro.Web\Cabelereiro.Web.csproj", "{A29C7E7F-9906-4016-8AFE-BE24B2557AC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{C0FB625C-9599-4130-AD39-1C378EABF438}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{89B27764-0C57-46FB-B91C-5756CB76ADC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{45FF895E-A78C-4E46-94E9-356714661948}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{9BA9E83E-E326-418F-B2EC-7182FE992D2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{A00DEA4A-5AD2-4E58-B5B7-F896F69D8897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cabelereiro.Repository", "Cabelereiro.Repository\Cabelereiro.Repository.csproj", "{36F072C4-2E01-4DC4-AB06-DECCB11E4310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cabelereiro.Model", "Cabelereiro.Model\Cabelereiro.Model.csproj", "{99ACBC5D-9383-4094-B0A4-AD096069AC53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cabelereiro.Common", "Cabelereiro.Common\Cabelereiro.Common.csproj", "{AAF4C540-3B12-4A3C-A024-05D7524ECD5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cabelereiro.Business", "Cabelereiro.Business\Cabelereiro.Business.csproj", "{114BF1E3-7703-4D15-A68D-CAFA1661993A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contracts", "Contracts", "{8B8257C4-CB01-4ED5-B871-43F3DF5A197C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cabelereiro.Contracts", "Cabelereiro.Contracts\Cabelereiro.Contracts.csproj", "{BA96B748-D346-4E10-8593-26EF289B7E6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBase", "DataBase", "{D95E3825-9EC5-4048-B725-816463B7FD3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cabelereiro.DataBase", "Cabelereiro.DataBase\Cabelereiro.DataBase.csproj", "{380F99EE-F506-47B6-9BA7-EFCEA560A486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A29C7E7F-9906-4016-8AFE-BE24B2557AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29C7E7F-9906-4016-8AFE-BE24B2557AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29C7E7F-9906-4016-8AFE-BE24B2557AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29C7E7F-9906-4016-8AFE-BE24B2557AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F072C4-2E01-4DC4-AB06-DECCB11E4310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F072C4-2E01-4DC4-AB06-DECCB11E4310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F072C4-2E01-4DC4-AB06-DECCB11E4310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F072C4-2E01-4DC4-AB06-DECCB11E4310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99ACBC5D-9383-4094-B0A4-AD096069AC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ACBC5D-9383-4094-B0A4-AD096069AC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ACBC5D-9383-4094-B0A4-AD096069AC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ACBC5D-9383-4094-B0A4-AD096069AC53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF4C540-3B12-4A3C-A024-05D7524ECD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF4C540-3B12-4A3C-A024-05D7524ECD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF4C540-3B12-4A3C-A024-05D7524ECD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF4C540-3B12-4A3C-A024-05D7524ECD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114BF1E3-7703-4D15-A68D-CAFA1661993A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114BF1E3-7703-4D15-A68D-CAFA1661993A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114BF1E3-7703-4D15-A68D-CAFA1661993A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114BF1E3-7703-4D15-A68D-CAFA1661993A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA96B748-D346-4E10-8593-26EF289B7E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA96B748-D346-4E10-8593-26EF289B7E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA96B748-D346-4E10-8593-26EF289B7E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA96B748-D346-4E10-8593-26EF289B7E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380F99EE-F506-47B6-9BA7-EFCEA560A486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380F99EE-F506-47B6-9BA7-EFCEA560A486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380F99EE-F506-47B6-9BA7-EFCEA560A486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380F99EE-F506-47B6-9BA7-EFCEA560A486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A29C7E7F-9906-4016-8AFE-BE24B2557AC1} = {A00DEA4A-5AD2-4E58-B5B7-F896F69D8897}
+		{36F072C4-2E01-4DC4-AB06-DECCB11E4310} = {89B27764-0C57-46FB-B91C-5756CB76ADC0}
+		{99ACBC5D-9383-4094-B0A4-AD096069AC53} = {C0FB625C-9599-4130-AD39-1C378EABF438}
+		{AAF4C540-3B12-4A3C-A024-05D7524ECD5E} = {45FF895E-A78C-4E46-94E9-356714661948}
+		{114BF1E3-7703-4D15-A68D-CAFA1661993A} = {9BA9E83E-E326-418F-B2EC-7182FE992D2E}
+		{BA96B748-D346-4E10-8593-26EF289B7E6C} = {8B8257C4-CB01-4ED5-B871-43F3DF5A197C}
+		{380F99EE-F506-47B6-9BA7-EFCEA560A486} = {D95E3825-9EC5-4048-B725-816463B7FD3B}
+	EndGlobalSection
+EndGlobal

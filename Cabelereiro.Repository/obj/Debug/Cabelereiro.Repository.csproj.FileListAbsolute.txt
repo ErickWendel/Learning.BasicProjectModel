@@ -1,0 +1,16 @@
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\Cabelereiro.Repository.dll.config
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\Cabelereiro.Repository.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\Cabelereiro.Repository.pdb
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\Cabelereiro.Contracts.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\Cabelereiro.DataBase.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\Cabelereiro.Model.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\Cabelereiro.Contracts.pdb
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\Cabelereiro.DataBase.pdb
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\Cabelereiro.Model.pdb
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\obj\Debug\Cabelereiro.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\obj\Debug\Cabelereiro.Repository.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.Repository\obj\Debug\Cabelereiro.Repository.pdb

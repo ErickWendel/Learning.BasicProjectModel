@@ -1,0 +1,12 @@
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.DataBase\bin\Debug\Cabelereiro.DataBase.dll.config
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.DataBase\bin\Debug\Cabelereiro.DataBase.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.DataBase\bin\Debug\Cabelereiro.DataBase.pdb
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.DataBase\bin\Debug\Cabelereiro.Model.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.DataBase\bin\Debug\EntityFramework.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.DataBase\bin\Debug\Cabelereiro.Model.pdb
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.DataBase\bin\Debug\EntityFramework.xml
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.DataBase\obj\Debug\Cabelereiro.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.DataBase\obj\Debug\Cabelereiro.DataBase.dll
+C:\Users\Erick-User\Desktop\Cabelereiro\Cabelereiro.DataBase\obj\Debug\Cabelereiro.DataBase.pdb

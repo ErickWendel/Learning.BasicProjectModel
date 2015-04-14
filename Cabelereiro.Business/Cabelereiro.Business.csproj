@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{114BF1E3-7703-4D15-A68D-CAFA1661993A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cabelereiro.Business</RootNamespace>
+    <AssemblyName>Cabelereiro.Business</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PessoaBus.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Cabelereiro.Common\Cabelereiro.Common.csproj">
+      <Project>{aaf4c540-3b12-4a3c-a024-05d7524ecd5e}</Project>
+      <Name>Cabelereiro.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cabelereiro.Contracts\Cabelereiro.Contracts.csproj">
+      <Project>{ba96b748-d346-4e10-8593-26ef289b7e6c}</Project>
+      <Name>Cabelereiro.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cabelereiro.DataBase\Cabelereiro.DataBase.csproj">
+      <Project>{380f99ee-f506-47b6-9ba7-efcea560a486}</Project>
+      <Name>Cabelereiro.DataBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cabelereiro.Model\Cabelereiro.Model.csproj">
+      <Project>{99acbc5d-9383-4094-b0a4-ad096069ac53}</Project>
+      <Name>Cabelereiro.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cabelereiro.Repository\Cabelereiro.Repository.csproj">
+      <Project>{36f072c4-2e01-4dc4-ab06-deccb11e4310}</Project>
+      <Name>Cabelereiro.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
